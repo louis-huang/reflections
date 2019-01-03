@@ -1,0 +1,2 @@
+Diff can help us to compare different versions of codes so we can know where is wrong.
+We can use git to commit multiple files at one time.
